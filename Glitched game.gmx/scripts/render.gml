@@ -1,0 +1,3 @@
+instance_deactivate_object(obj_block)
+instance_deactivate_object(obj_glitch)
+instance_activate_region(view_xview,view_yview,view_wview,view_hview,true)
